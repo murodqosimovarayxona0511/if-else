@@ -1,0 +1,172 @@
+#  No1
+# n=int(input("tub son kiriting:"))
+# if n%n==0 and n%1==0 and n%2!=0 and n%3!=0 and n%5!=0 and n%7!=0 and n%11!=0 and n%13!=0 :
+#     print('tub son')
+# else:
+#     print('murakkab son')
+
+# No2
+# bal=int(input('talabaning bali'))
+# if bal>60:
+#     print('otgan')
+# else:
+#     print('yiqilgan')
+# No3
+# harorat=int(input('haroratni kiriting'))
+# if harorat<0:
+#     print('muzlash ehtimoli bor')
+# else:
+#     print('normal')
+# No4
+# balans=int(input('balansni kiriting'))
+# if balans>0:
+#     print('musbat balans')
+# else:
+#     print('qarzdor')
+
+# No5
+# radius=int(input('radiusni kiriting'))
+# if radius>0:
+#     s=3.14*r*r
+#     print(s)
+# else:
+    # print('xato radius')
+# No6
+# yosh=int(input('yoshingizni kiriting'))
+# if yosh>18:
+#     print('kontrakt tuzish mumkin')
+# else:
+#     print('mumkin emas')
+# No7
+# import math
+# d1=int(input('1-dioganal'))
+# d2=int(input('2-dioganal'))  
+# burchak=float(input('burchakni kiriting'))
+# b=math.radians(burchak)
+# a=math.sin(b)
+# if d1>0 and d2>0 and 0<burchak<180:
+#     s=d1*d2*a
+#     print(s)
+# else:
+#     print('xato malumot')
+
+# No8
+# x=float(input('son kiriting'))
+# if 0<x<1:
+#     y1=x*x
+#     print(y1)
+# else:
+#     y2=2*x+1
+#     print(y2)
+
+# No9
+# s=int(input('sekundni kiriting'))
+# if s>3600:
+#     h=s/3600
+#     print('soat',h)
+# else:
+#     m=s/60
+#     print('min',m)
+# No10
+# msoni=int(input('mahsulotlar soni'))
+# narh=20000
+# if msoni==0:
+#     print('savat bosh')
+# else:
+#     umumiy=msoni*narh
+#     print(f'{umumiy} som boldi')
+# No11
+# ball=float(input('ballni kiriting'))
+# if ball>=90:
+#     print('A')
+# elif ball>=80:
+#     print('B')
+# elif ball>=70:
+#     print('C')
+# elif ball>=60:
+#     print('D')
+# else:
+#     print('F')
+# No12
+# a=float(input('1-tomon'))
+# b=float(input('2-tomon'))
+# c=float(input('3-tomoni'))
+# if  a+b>c and b+c>a and c+a>b and a==b==c  and a>0 and b>0 and c>0:
+#     print('teng tomonli uchburchak')
+# elif a==b or b==c or c==a:
+#     print('teng yonli uchburchak')
+# else:
+#     print('turli tomonli uchburchak')
+# No13
+# n=float(input('sonni kirting'))
+# if n>0:
+#     print('musbat')
+# elif n<0:
+#     print('manfiy')
+# else:
+#     print('nolga teng')
+# No14
+# n=int(input('haftaning tartib raqamini kiriting (1-7):'))
+# if n==1:
+#     print('dushanba')
+# elif n==2:
+#     print('seshanba')
+# elif n==3:
+#     print('chorshanba')
+# elif n==4:
+#     print('payshanba')
+# elif n==5:
+    # print('juma')
+# elif n==6:
+#     print('shanba')
+# elif n==7:
+#     print('yakshanba')
+# else:
+#     print('xato')
+# No15
+# x=float(input('oy raqamini kiriting(1-12):'))
+# if 3<=x<6:
+#     print('bahor')
+# elif 6<=x<9:
+#     print('yoz')
+# elif 9<=x<12:
+#     print('kuz')
+# else:
+#     print('qish')
+# No16
+# import math
+# x=float(input('x='))
+# if x<0:
+#     y=math.asb(x)
+#     print(y)
+# elif 0<=x<=5:
+#     y1=math.pow(x,2)
+#     print(y1)
+# elif x>5:
+#     y2=2*x+3
+#     print(y2)
+# No17
+# v=float(input('tezlikni kiriting'))
+# if 60<v<80:
+#     print('ogohlantirish')
+# elif 80<=v<100:
+#     print('kichik jarima')
+# elif v>=100:
+#     print('katta jarima')
+# No18
+# x=float(input('oylik sarfni kiriting'))
+# if x<3000000:
+#     print('past daromad')
+# elif 3<=x<10000000:
+#     print('orta')
+# else:
+#     print('yuqori')
+# No19
+# No20
+# x=int(input('kompyuter batareyasi='))
+# if x>=80:
+#     print('toliq')
+# elif 30<x<80:
+#     print('normal')
+# else x<=30:
+#     print('kam')
