@@ -170,3 +170,19 @@
 #     print('normal')
 # else x<=30:
 #     print('kam')
+ No21
+# unli=['a','e','i','o','u',"o'"]
+# undosh=['q','w','r','t','y','p','s','d','f','g','h','j','k','l','z','x','c','v','b','n','m']
+# harf=input('harf kiriting')
+# if harf in unli:
+#     print('unli harf')
+# elif harf in undosh:
+#     print('undosh')
+# No22
+# foydalanuvchi=["ruxshona","rayhona5","bahora"]
+# login=input('yangi login kiriting')
+# if login in foydalanuvchi:
+#     print("boshqa login tanlang")
+# else:
+#     print('xush kelibsz')
+
