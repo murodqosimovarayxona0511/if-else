@@ -185,4 +185,25 @@
 #     print("boshqa login tanlang")
 # else:
 #     print('xush kelibsz')
-
+# No23
+# diplombaho=['A','B','C']
+# baho=input('diplom baho kiriting=')
+# if baho in diplombaho:
+#     print('ustama berish')
+# else:
+#     print('ustama yoq')
+# No24
+# valyutakurs=['USD','EUR','GBP']
+# kurs=input("valyuta kursini kiriting=")
+# if kurs in valyutakurs:
+#     print('kursni olish')
+# else:
+#     print('kursni olmaslik')
+# No25
+# kun=input('hafta kunini kiriting=')
+# k1=['dushanba','seshanba','chorshanba','payshanba','juma']
+# k2=['shanba','yakshanba']
+# if kun in k1:
+#     print('ish kuni')
+# elif kun in k2:
+#     print('dam olish')
