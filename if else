@@ -207,3 +207,15 @@
 #     print('ish kuni')
 # elif kun in k2:
 #     print('dam olish')
+# No26
+# haqiqiykodlar=[234,567,890,45,34]
+# kod=int(input('kod kiriting='))    
+# if kod in haqiqiykodlar:
+#     print('chegirma berish')
+# else:
+#     print('szga chegirma yoq')
+# No27
+# taqiqlangan=['are','also']
+# matn=input('soz kiriting')
+# if matn in taqiqlangan:
+#     print('szni ogohlanturamiz bu sozdan foydalanmang')
